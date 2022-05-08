@@ -54,7 +54,7 @@ public class comboDAO {
     public static SQLServerDataSource data(){
         var server ="LAPTOP-QEDQ6B4M\\SQLEXPRESS";
         var user="sa";
-        var password="Sang3627829";
+        var password="Sangat148";
         var db="Restaurant";
         var port =1433;
         SQLServerDataSource ds= new SQLServerDataSource();
